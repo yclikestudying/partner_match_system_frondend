@@ -1,35 +1,21 @@
-# partner-match-frontend
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+项目介绍:
+    帮助大家找到志同道合的伙伴的网站（APP风格）
+前端技术：
+    vue3
+    vantUI
+    vite
+后端技术:
+    springboot
+    mybatisplus
+    mysql
+项目功能:
+    登录注册功能
+    推荐相似用户功能
+    根据标签搜索用户功能
+    创建队伍功能
+    添加解散队伍功能
+    推荐队伍功能
+    一对一单聊功能
+    群聊功能
+    个人资料编辑
+    选择标签
